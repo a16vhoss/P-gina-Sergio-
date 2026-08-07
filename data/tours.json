@@ -1,0 +1,772 @@
+[
+  {
+    "id": 6,
+    "img": "clear-boat",
+    "gallery": 6,
+    "category": "ocean",
+    "tags": ["bestseller", "family"],
+    "hours": 1,
+    "price": { "adult": 35, "adultList": 50, "kid": 30, "kidList": 40 },
+    "times": ["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00"],
+    "slug": { "es": "barco-transparente-al-arco", "en": "clear-boat-tour-lands-end" },
+    "title": {
+      "es": "Barco transparente al Arco de Cabo San Lucas",
+      "en": "Clear Boat Tour to Land's End"
+    },
+    "tagline": {
+      "es": "El único barco de casco transparente de Cabo",
+      "en": "Cabo's only clear-hull boat"
+    },
+    "summary": {
+      "es": "Navega sobre Pelican Rock y el Arco viendo los peces tropicales a través del casco. Una hora, salidas cada hora y el mejor plan corto de la marina.",
+      "en": "Cruise over Pelican Rock and El Arco watching tropical fish straight through the hull. One hour, hourly departures, the best short trip out of the marina."
+    },
+    "description": {
+      "es": [
+        "No es el tour de siempre a Land's End. Zarpamos de la marina de Cabo San Lucas en el único barco de casco transparente del destino, así que el arrecife de Pelican Rock se ve completo bajo tus pies: cardúmenes de peces ángel, sargentos y peces globo sobre la roca, sin necesidad de meterte al agua.",
+        "En el recorrido pasamos por la Ventana al Pacífico, el Dedo de Neptuno, la colonia de lobos marinos, Playa del Amor y, por supuesto, el Arco: el punto más fotografiado de Baja California Sur. Nuestro guía bilingüe te va contando la historia de cada formación y te acomoda para que te lleves la foto.",
+        "Es el plan perfecto si viajas con niños, si tienes poco tiempo entre actividades o si prefieres ver la vida marina sin nadar."
+      ],
+      "en": [
+        "This is not your average Land's End trip. We leave the Cabo San Lucas marina aboard the destination's only clear-hull boat, so the Pelican Rock reef opens up right under your feet: schools of angelfish, sergeant majors and pufferfish over the rock, with no need to get in the water.",
+        "Along the way we pass the Window to the Pacific, Neptune's Finger, the sea lion colony, Lovers Beach and, of course, El Arco, the single most photographed spot in Baja California Sur. Your bilingual guide narrates every formation and lines you up for the shot.",
+        "It is the perfect plan if you are travelling with kids, if you only have a gap between activities, or if you would rather see the marine life without swimming."
+      ]
+    },
+    "highlights": {
+      "es": ["Casco transparente sobre el arrecife de Pelican Rock", "El Arco, Playa del Amor y la colonia de lobos marinos", "Cuota de marina ya incluida", "Salidas cada hora, de 9:00 a 17:00"],
+      "en": ["Clear hull right over the Pelican Rock reef", "El Arco, Lovers Beach and the sea lion colony", "Marina access fee already included", "Hourly departures from 9:00 to 17:00"]
+    },
+    "includes": {
+      "es": ["Cuota de acceso a la marina incluida", "Barco de casco transparente", "Guía bilingüe (español / inglés)", "Chalecos salvavidas"],
+      "en": ["Marina access fee included", "Clear-hull boat", "Bilingual guide (Spanish / English)", "Life vests"]
+    },
+    "excludes": {
+      "es": ["Bloqueador solar", "Fotografía profesional (costo adicional)", "Propinas"],
+      "en": ["Sunscreen", "Professional photos (extra cost)", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Puedes subir una bebida a bordo, siempre que no venga en envase de vidrio", "Apto para todas las edades acompañadas de un adulto"],
+      "en": ["One beverage per person is allowed on board, as long as it is not in a glass container", "Suitable for all ages when accompanied by an adult"]
+    },
+    "meeting": {
+      "es": "Marina de Cabo San Lucas. Te enviamos el muelle exacto al confirmar tu reserva.",
+      "en": "Cabo San Lucas marina. We send you the exact dock when your booking is confirmed."
+    }
+  },
+  {
+    "id": 2,
+    "img": "lovers-beach-arco",
+    "gallery": 6,
+    "category": "ocean",
+    "tags": ["family"],
+    "hours": 2,
+    "price": { "adult": 30, "adultList": 40, "kid": 20, "kidList": 25 },
+    "times": ["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00"],
+    "slug": { "es": "playa-del-amor-y-el-arco-en-barco", "en": "lovers-beach-and-el-arco-boat-trip" },
+    "title": {
+      "es": "Playa del Amor y El Arco en barco de fondo de cristal",
+      "en": "Lovers Beach and El Arco Boat Trip"
+    },
+    "tagline": {
+      "es": "El tour más económico para llegar a la mejor playa de Cabo",
+      "en": "The most affordable way to reach Cabo's best beach"
+    },
+    "summary": {
+      "es": "Barco de fondo de cristal hasta el Arco y desembarque en Playa del Amor. Tú decides cuánto te quedas: te recogemos a la hora que acordemos.",
+      "en": "Glass-bottom boat to El Arco with a drop-off at Lovers Beach. You decide how long you stay: we pick you up at the time we agree on."
+    },
+    "description": {
+      "es": [
+        "Abordas en la marina y navegas en barco de fondo de cristal hasta El Arco, pasando por las formaciones rocosas más impresionantes de Land's End. En el trayecto es muy probable que veas lobos marinos, pelícanos y cardúmenes de peces tropicales: llevar cámara no es opcional.",
+        "Después el barco te deja en Playa del Amor, la playa más bonita de Cabo y a la que solo se llega por mar. El agua es tan clara que puedes ver los peces desde la orilla. Puedes llevar tu hielera con comida y bebidas, y juguetes ligeros como frisbees o pelotas.",
+        "Cuando quieras regresar, tomas el barco de vuelta a la marina. Es el plan más flexible y más barato del catálogo, y funciona igual de bien para parejas que para familias completas."
+      ],
+      "en": [
+        "You board at the marina and cruise in a glass-bottom boat to El Arco, passing the most dramatic rock formations at Land's End. Along the way you will very likely spot sea lions, pelicans and schools of tropical fish, so bring a camera.",
+        "The boat then drops you at Lovers Beach, the prettiest beach in Cabo and the only one you can reach by sea. The water is so clear you can see the fish from the shore. You are welcome to bring your own cooler with food and drinks, plus lightweight gear like frisbees or beach balls.",
+        "Whenever you are ready, you catch the boat back to the marina. It is the most flexible and most affordable trip in our catalogue, and it works just as well for couples as it does for a whole family."
+      ]
+    },
+    "highlights": {
+      "es": ["Barco de fondo de cristal hasta El Arco", "Desembarque en Playa del Amor, sin acceso por tierra", "Regreso a la hora que tú elijas", "Los niños de 0 a 3 años no pagan"],
+      "en": ["Glass-bottom boat to El Arco", "Drop-off at Lovers Beach, unreachable by land", "Return at the time you choose", "Kids aged 0 to 3 go free"]
+    },
+    "includes": {
+      "es": ["Traslado en barco de ida y vuelta desde la marina", "Chalecos salvavidas"],
+      "en": ["Round-trip boat transfer from the marina", "Life vests"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso a la marina: 5 USD por persona (se paga en sitio)", "Equipo de snorkel: renta de 10 USD por persona", "Toallas", "Bloqueador solar", "Propinas"],
+      "en": ["Marina access fee: 5 USD per person (paid on site)", "Snorkel gear: 10 USD per person to rent", "Towels", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Los niños de 0 a 3 años no pagan", "Playa del Amor no tiene servicios: lleva agua y bloqueador"],
+      "en": ["Kids aged 0 to 3 do not pay", "Lovers Beach has no facilities: bring water and sunscreen"]
+    },
+    "meeting": {
+      "es": "Marina de Cabo San Lucas. Te enviamos el muelle exacto al confirmar tu reserva.",
+      "en": "Cabo San Lucas marina. We send you the exact dock when your booking is confirmed."
+    }
+  },
+  {
+    "id": 4,
+    "img": "snorkel-lands-end",
+    "gallery": 6,
+    "category": "ocean",
+    "tags": ["bestseller"],
+    "hours": 3,
+    "price": { "adult": 69, "adultList": 79, "kid": 69, "kidList": 79 },
+    "times": ["12:30"],
+    "slug": { "es": "snorkel-en-el-arco-y-bahia-santa-maria", "en": "snorkel-tour-lands-end-santa-maria-bay" },
+    "title": {
+      "es": "Snorkel en El Arco y Bahía Santa María",
+      "en": "Snorkel Tour to Land's End and Santa María Bay"
+    },
+    "tagline": {
+      "es": "Barra libre, brunch a bordo y el mejor arrecife de Los Cabos",
+      "en": "Open bar, brunch on board and the best reef in Los Cabos"
+    },
+    "summary": {
+      "es": "Tres horas de navegación con paradas en El Arco y snorkel en Bahía Santa María. Incluye equipo, brunch y barra libre.",
+      "en": "Three hours on the water with photo stops at El Arco and snorkelling in Santa María Bay. Gear, brunch and open bar included."
+    },
+    "description": {
+      "es": [
+        "Salimos de la marina rumbo a Land's End para que tomes todas las fotos que quieras en El Arco. En el camino pasamos por Pelican Rock, donde vive una enorme variedad de peces tropicales, el Dedo de Neptuno, Playa del Amor y la colonia de lobos marinos.",
+        "Ya en Bahía Santa María, área natural protegida y uno de los mejores puntos de snorkel de la península, tienes tiempo libre para meterte al agua con el equipo incluido. El arrecife es poco profundo y de agua muy clara, así que funciona igual para quien nunca ha hecho snorkel.",
+        "De regreso te esperan el brunch a bordo con pico de gallo y guacamole, y la barra libre abierta hasta llegar a la marina."
+      ],
+      "en": [
+        "We leave the marina heading for Land's End so you can take all the photos you want at El Arco. On the way we pass Pelican Rock, home to a huge variety of tropical fish, plus Neptune's Finger, Lovers Beach and the sea lion colony.",
+        "Once in Santa María Bay, a protected marine area and one of the best snorkelling spots on the peninsula, you get free time in the water with the gear included. The reef is shallow and the water is very clear, so it works just as well for first-time snorkellers.",
+        "On the way back you get brunch on board with pico de gallo and guacamole, and the open bar stays open until we reach the marina."
+      ]
+    },
+    "highlights": {
+      "es": ["Snorkel en Bahía Santa María, área natural protegida", "Equipo de snorkel incluido", "Barra libre y brunch a bordo", "Paso por El Arco, Playa del Amor y los lobos marinos"],
+      "en": ["Snorkelling in Santa María Bay, a protected marine area", "Snorkel gear included", "Open bar and brunch on board", "Sail past El Arco, Lovers Beach and the sea lions"]
+    },
+    "includes": {
+      "es": ["Barra libre", "Brunch a bordo", "Equipo de snorkel", "Guía bilingüe (español / inglés)", "Chalecos salvavidas"],
+      "en": ["Open bar", "Brunch on board", "Snorkel gear", "Bilingual guide (Spanish / English)", "Life vests"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso a la marina: 5 USD por persona (se paga en sitio)", "Toallas", "Transporte hotel – marina", "Propinas"],
+      "en": ["Marina access fee: 5 USD per person (paid on site)", "Towels", "Hotel to marina transport", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Salida única a las 12:30 h", "Los menores deben ir acompañados de un adulto en el agua"],
+      "en": ["Single departure at 12:30", "Minors must be accompanied by an adult in the water"]
+    },
+    "meeting": {
+      "es": "Marina de Cabo San Lucas, 20 minutos antes de la salida.",
+      "en": "Cabo San Lucas marina, 20 minutes before departure."
+    }
+  },
+  {
+    "id": 9,
+    "img": "baja-atv",
+    "gallery": 7,
+    "category": "adventure",
+    "tags": ["bestseller"],
+    "hours": 3,
+    "price": { "adult": 55, "adultList": 65, "kid": 35, "kidList": 55 },
+    "times": ["09:00", "12:00", "15:00"],
+    "slug": { "es": "atv-en-el-desierto-de-migrino", "en": "baja-atv-migrino-adventure" },
+    "title": {
+      "es": "ATV en el desierto de Migriño",
+      "en": "Baja ATV Migriño Adventure"
+    },
+    "tagline": {
+      "es": "Nuestra aventura todoterreno más vendida",
+      "en": "Our best-selling off-road ride"
+    },
+    "summary": {
+      "es": "Cuatrimoto por senderos de desierto, montaña y playa del Pacífico, con transporte redondo desde tu hotel.",
+      "en": "Quad ride across desert trails, mountains and the Pacific shoreline, with round-trip hotel transport."
+    },
+    "description": {
+      "es": [
+        "Manejas tu propia cuatrimoto por los senderos de Migriño: desierto de cardones, subidas de montaña y, al final, la playa abierta del Pacífico. Hacemos una parada en el mirador para que veas la costa completa y tomes fotos antes de seguir.",
+        "Los guías van adelante y atrás del grupo, marcan el ritmo según el nivel de cada quien y dan una plática de manejo antes de salir. No necesitas experiencia previa.",
+        "Al terminar tienes tiempo para revisar tus fotos, pasar por souvenirs o tomarte una cerveza fría o una margarita mientras llega el transporte que te regresa al hotel."
+      ],
+      "en": [
+        "You drive your own quad through the Migriño trails: cardón desert, mountain climbs and, at the end, the open Pacific beach. We stop at the lookout so you can take in the whole coastline and get your photos before continuing.",
+        "Guides ride at the front and the back of the group, set the pace to match the group's level and run a driving briefing before departure. No previous experience needed.",
+        "Afterwards you have time to look through your photos, pick up souvenirs or have a cold beer or a margarita while your transport back to the hotel arrives."
+      ]
+    },
+    "highlights": {
+      "es": ["Desierto, montaña y playa del Pacífico en un solo recorrido", "Transporte redondo desde tu hotel incluido", "Sin experiencia previa: se da plática de manejo", "Tres salidas al día"],
+      "en": ["Desert, mountain and Pacific beach in a single ride", "Round-trip hotel transport included", "No experience needed: driving briefing provided", "Three departures a day"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Transporte redondo desde tu hotel", "Guía bilingüe (español / inglés)"],
+      "en": ["Water", "Safety equipment", "Round-trip hotel transport", "Bilingual guide (Spanish / English)"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Seguro de colisión opcional por vehículo", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Optional collision insurance per vehicle", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Edad mínima para viajar como pasajero acompañado de un adulto: 7 años", "Edad mínima para manejar solo: 16 años", "Menores de 16 años deben ir en cuatrimoto doble con un adulto", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Minimum age to ride as a passenger with an adult: 7 years", "Minimum age to drive alone: 16 years", "Riders under 16 must share a double ATV with an adult", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 16,
+    "img": "razor-dune",
+    "gallery": 8,
+    "category": "adventure",
+    "tags": ["food"],
+    "hours": 3,
+    "price": { "adult": 83, "adultList": 93, "kid": 63, "kidList": 73 },
+    "times": ["09:00", "10:00", "13:00", "15:00"],
+    "slug": { "es": "razor-extremo-en-las-dunas", "en": "extreme-razor-dune-adventure" },
+    "title": {
+      "es": "Razor extremo en las dunas + taco gigante",
+      "en": "Extreme Razor Dune Adventure with Giant Taco"
+    },
+    "tagline": {
+      "es": "Dos playas de arena blanca, dunas enormes y tacos al regresar",
+      "en": "Two white-sand beaches, huge dunes and tacos when you get back"
+    },
+    "summary": {
+      "es": "Off road de tres horas por senderos de desierto y dunas del Pacífico, con comida mexicana incluida al final.",
+      "en": "A three-hour off-road run through desert trails and Pacific dunes, with Mexican food included at the end."
+    },
+    "description": {
+      "es": [
+        "Adrenalina pura. El recorrido combina senderos de desierto con dos playas de arena blanca y dunas enormes con vistas que solo el Pacífico da. Es de los circuitos más divertidos de la zona y el ritmo lo marca el guía según el grupo.",
+        "¿Primera vez? No hay problema: si sabes manejar un coche automático, puedes con esto. Antes de salir damos la plática de seguridad y las primeras curvas son para agarrar confianza.",
+        "Al volver te esperan tacos recién hechos: pollo, pastor y rajas poblanas, con pico de gallo casero y salsa picante. También hay opción vegetariana. Es la única de nuestras aventuras que cierra con la comida más famosa de México."
+      ],
+      "en": [
+        "Pure adrenaline. The route mixes desert trails with two white-sand beaches and huge dunes that open onto views only the Pacific can give you. It is one of the most fun circuits in the area, and your guide sets the pace to match the group.",
+        "First time? No problem: if you can drive an automatic car, you can do this. We run the safety briefing before departure and the first bends are there for you to build confidence.",
+        "Back at base, freshly made tacos are waiting: chicken, al pastor and rajas poblanas, with homemade pico de gallo and spicy salsa. There is a vegetarian option too. This is the only one of our adventures that closes with Mexico's most famous meal."
+      ]
+    },
+    "highlights": {
+      "es": ["Dunas y dos playas de arena blanca del Pacífico", "Tacos de pollo, pastor y rajas al terminar", "Opción vegetariana disponible", "Sin experiencia previa"],
+      "en": ["Pacific dunes and two white-sand beaches", "Chicken, al pastor and rajas tacos at the finish", "Vegetarian option available", "No previous experience required"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Tacos de pollo, pastor y rajas poblanas", "Opción vegetariana", "Pico de gallo y salsas", "Transporte redondo desde tu hotel"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Chicken, al pastor and rajas poblanas tacos", "Vegetarian option", "Pico de gallo and salsas", "Round-trip hotel transport"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Edad mínima para viajar como pasajero acompañado de un adulto: 7 años", "Edad mínima para manejar solo: 16 años", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Minimum age to ride as a passenger with an adult: 7 years", "Minimum age to drive alone: 16 years", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 11,
+    "img": "side-by-side",
+    "gallery": 6,
+    "category": "adventure",
+    "tags": ["premium"],
+    "hours": 3,
+    "price": { "adult": 125, "adultList": 155, "kid": 100, "kidList": 120 },
+    "times": ["08:00", "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"],
+    "slug": { "es": "side-by-side-off-road-en-cabo", "en": "side-by-side-off-road-adventure" },
+    "title": {
+      "es": "Side by Side off road en Cabo",
+      "en": "Side by Side Off-Road Adventure"
+    },
+    "tagline": {
+      "es": "El vehículo más potente del catálogo, con nueve horarios de salida",
+      "en": "The most powerful vehicle we run, with nine departure times"
+    },
+    "summary": {
+      "es": "Buggy biplaza por senderos de desierto, dunas y dos playas del Pacífico. Incluye transporte, lockers y tacos.",
+      "en": "Two-seat buggy across desert trails, dunes and two Pacific beaches. Transport, lockers and tacos included."
+    },
+    "description": {
+      "es": [
+        "Si vas a hacer una sola actividad en Cabo, que sea esta. El Side by Side es un buggy biplaza con jaula, cinturones de cuatro puntos y mucha más potencia que una cuatrimoto: sube dunas, cruza arena suelta y aguanta el ritmo en los tramos rápidos.",
+        "El circuito atraviesa los senderos del desierto y termina en dos playas de arena blanca con dunas enormes y vista abierta al Pacífico. Vas acompañado, así que puedes turnarte el volante con quien te acompañe.",
+        "¿Primera vez en off road? Si sabes manejar un coche automático, no necesitas nada más. El guía va marcando el paso y ajusta la ruta al nivel del grupo."
+      ],
+      "en": [
+        "If you are only doing one activity in Cabo, make it this one. The Side by Side is a two-seat buggy with a roll cage, four-point harnesses and far more power than a quad: it climbs dunes, crosses soft sand and holds the pace on the fast sections.",
+        "The circuit runs through the desert trails and finishes on two white-sand beaches with huge dunes and wide-open Pacific views. You ride with a companion, so you can swap the wheel between you.",
+        "First time off-road? If you can drive an automatic car, that is all you need. Your guide sets the pace and adjusts the route to the group's level."
+      ]
+    },
+    "highlights": {
+      "es": ["Buggy biplaza con jaula y arneses", "Nueve horarios de salida, de 8:00 a 16:00", "Tacos y refrescos incluidos", "Van con aire acondicionado y lockers"],
+      "en": ["Two-seat buggy with roll cage and harnesses", "Nine departure times, from 8:00 to 16:00", "Tacos and soft drinks included", "Air-conditioned van and lockers"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Transporte redondo desde tu hotel", "Van con aire acondicionado", "Lockers", "Tacos de res, cerdo y pollo con refrescos"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Round-trip hotel transport", "Air-conditioned van", "Lockers", "Beef, pork and chicken tacos with soft drinks"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Seguro de colisión opcional por vehículo", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Optional collision insurance per vehicle", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Menores de 16 años deben ir como pasajeros con un adulto", "Se requiere saber manejar un vehículo automático", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Riders under 16 must ride as passengers with an adult", "You need to know how to drive an automatic vehicle", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 8,
+    "img": "zipline-rappel",
+    "gallery": 8,
+    "category": "adventure",
+    "tags": [],
+    "hours": 3,
+    "price": { "adult": 98, "adultList": 108, "kid": 87, "kidList": 97 },
+    "times": ["09:00", "12:00", "15:00"],
+    "slug": { "es": "tirolesas-y-rappel-en-cabo", "en": "zip-line-and-rappelling-adventure" },
+    "title": {
+      "es": "Siete tirolesas y rappel en el cañón",
+      "en": "Seven Zip Lines and Canyon Rappelling"
+    },
+    "tagline": {
+      "es": "Puente colgante, rappel y cata de licor de damiana",
+      "en": "Suspension bridge, rappel and a damiana liqueur tasting"
+    },
+    "summary": {
+      "es": "Siete tirolesas sobre el cañón, un puente colgante y un descenso en rappel. Cierra con cata en la fábrica de licor de damiana.",
+      "en": "Seven zip lines over the canyon, a suspension bridge and a rappel descent. Finishes with a tasting at the damiana liqueur factory."
+    },
+    "description": {
+      "es": [
+        "Siete tirolesas tendidas sobre el cañón, un puente colgante y un descenso en rappel por la pared de roca. La caminata de subida entre cardones es exigente y, con suerte, te cruzas con la fauna de la sierra en el camino: vale cada paso cuando estás volando cañón abajo.",
+        "Los guías trabajan con distintos niveles todo el día y ajustan cada línea a la capacidad de cada persona, con doble anclaje y revisión de arnés antes de cada salto. La seguridad va primero y se nota.",
+        "Para cerrar, visita y cata en la fábrica de licor de damiana, la bebida tradicional de Baja California Sur."
+      ],
+      "en": [
+        "Seven zip lines strung across the canyon, a suspension bridge and a rappel descent down the rock face. The hike up through the cardón cactus is demanding, and with a bit of luck you will cross paths with the local wildlife on the way, but it is worth every step once you are flying down the canyon.",
+        "The guides work with every level of ability all day and adapt each line to the person, with double anchoring and a harness check before every run. Safety comes first here and it shows.",
+        "To finish, a visit and tasting at the damiana liqueur factory, the traditional drink of Baja California Sur."
+      ]
+    },
+    "highlights": {
+      "es": ["Siete tirolesas sobre el cañón", "Puente colgante y descenso en rappel", "Cata de licor de damiana incluida", "Toallas húmedas al terminar"],
+      "en": ["Seven zip lines over the canyon", "Suspension bridge and rappel descent", "Damiana liqueur tasting included", "Cool wet towels at the finish"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Toallas húmedas al terminar", "Transporte redondo desde tu hotel"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Wet towels at the finish", "Round-trip hotel transport"]
+    },
+    "excludes": {
+      "es": ["Bloqueador solar", "Fotografía profesional (costo adicional)", "Propinas"],
+      "en": ["Sunscreen", "Professional photos (extra cost)", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Requiere condición física para la caminata de subida", "Usa calzado cerrado", "No recomendado para embarazadas ni para personas con problemas de espalda, corazón o cirugías recientes"],
+      "en": ["Requires reasonable fitness for the uphill hike", "Wear closed-toe shoes", "Not recommended for pregnant women or people with back or heart conditions or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 5,
+    "img": "atv-camel-combo",
+    "gallery": 8,
+    "category": "adventure",
+    "tags": ["combo", "bestseller"],
+    "hours": 3,
+    "price": { "adult": 90, "adultList": 100, "kid": 75, "kidList": 85 },
+    "times": ["09:00", "12:00", "15:00"],
+    "slug": { "es": "combo-atv-y-camello-en-migrino", "en": "atv-and-camel-ride-combo-migrino" },
+    "title": {
+      "es": "Combo: ATV + paseo en camello en Migriño",
+      "en": "Combo: ATV and Camel Ride in Migriño"
+    },
+    "tagline": {
+      "es": "Dos aventuras en una sola salida",
+      "en": "Two adventures in a single outing"
+    },
+    "summary": {
+      "es": "Cuatrimoto por el desierto de Migriño hasta la playa y, al llegar, paseo en camello a orillas del Pacífico.",
+      "en": "Quad ride through the Migriño desert down to the beach, then a camel ride along the Pacific shoreline."
+    },
+    "description": {
+      "es": [
+        "Arrancas en cuatrimoto por los senderos de Migriño, entre subidas y bajadas de desierto, hasta salir de frente al Pacífico. Aceleras sobre la playa hasta llegar a nuestro santuario de camellos.",
+        "Ahí cambias de montura: paseo en camello sobre la arena, con interacción cercana, el beso de camello de rigor y la plática del guía sobre estos animales, cómo llegaron a Baja y cómo se cuidan.",
+        "Es la combinación favorita de quienes tienen un solo día libre y no quieren elegir entre adrenalina y algo distinto. Incluye clase y cata de tequila en nuestro museo."
+      ],
+      "en": [
+        "You start on a quad through the Migriño trails, climbing and dropping across the desert until the Pacific opens up in front of you. You accelerate along the beach until you reach our camel sanctuary.",
+        "There you switch rides: a camel walk on the sand, with close interaction, the obligatory camel kiss and your guide's talk about these animals, how they came to Baja and how they are cared for.",
+        "It is the favourite combination for anyone with a single free day who does not want to choose between adrenaline and something different. It includes a tequila class and tasting at our museum."
+      ]
+    },
+    "highlights": {
+      "es": ["Cuatrimoto y camello en la misma salida", "Santuario de camellos frente al Pacífico", "Clase y cata de tequila incluidas", "Transporte redondo y lockers"],
+      "en": ["Quad and camel in the same outing", "Camel sanctuary facing the Pacific", "Tequila class and tasting included", "Round-trip transport and lockers"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Lockers", "Transporte redondo desde tu hotel", "Van con aire acondicionado", "Clase y cata de tequila en nuestro museo"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Lockers", "Round-trip hotel transport", "Air-conditioned van", "Tequila class and tasting at our museum"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Alimentos y bebidas (disponibles desde 5 USD)", "Seguro de colisión opcional por vehículo", "Fotografía profesional (costo adicional)", "Bloqueador solar"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Food and drinks (available from 5 USD)", "Optional collision insurance per vehicle", "Professional photos (extra cost)", "Sunscreen"]
+    },
+    "restrictions": {
+      "es": ["Edad mínima: 6 años (1.20 m de estatura)", "Edad máxima para montar: 85 años", "Peso máximo por vehículo: 275 kg (600 lb)", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Minimum age: 6 years (1.20 m tall)", "Maximum age to ride: 85 years", "Weight limit per vehicle: 275 kg (600 lb)", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 15,
+    "img": "atv-horseback-combo",
+    "gallery": 5,
+    "category": "horseback",
+    "tags": ["combo"],
+    "hours": 3,
+    "price": { "adult": 90, "adultList": 100, "kid": 75, "kidList": 85 },
+    "times": ["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"],
+    "slug": { "es": "combo-atv-y-cabalgata-en-migrino", "en": "atv-and-horseback-riding-combo-migrino" },
+    "title": {
+      "es": "Combo: ATV + cabalgata en Migriño",
+      "en": "Combo: ATV and Horseback Riding in Migriño"
+    },
+    "tagline": {
+      "es": "Motor y caballo en la misma playa del Pacífico",
+      "en": "Engine and horse on the same Pacific beach"
+    },
+    "summary": {
+      "es": "Cuatrimoto por el desierto y cabalgata en la playa de Migriño, con ocho horarios de salida al día.",
+      "en": "Quad through the desert plus a horseback ride on Migriño beach, with eight departure times a day."
+    },
+    "description": {
+      "es": [
+        "Primero la cuatrimoto: senderos del desierto de Migriño, subidas y bajadas hasta salir a la playa. Aceleras sobre la arena sintiendo la brisa, entre cardones y fauna de Baja como liebres y correcaminos.",
+        "Después bajas el ritmo y te subes al caballo. Elegimos la montura según tu experiencia, desde caballos muy tranquilos hasta otros con más carácter, y el guía te acompaña todo el recorrido por la orilla.",
+        "El contraste entre las dos partes es justo lo que hace que este combo funcione tan bien, y con ocho horarios al día es fácil acomodarlo en tu itinerario."
+      ],
+      "en": [
+        "First the quad: Migriño desert trails, climbing and dropping until you reach the beach. You accelerate along the sand with the breeze in your face, between cardón cactus and Baja wildlife like jackrabbits and roadrunners.",
+        "Then you slow the pace right down and get on a horse. We match the horse to your experience, from very calm animals to ones with more character, and the guide rides with you along the shoreline the whole way.",
+        "The contrast between the two halves is exactly what makes this combo work so well, and with eight departures a day it is easy to slot into your itinerary."
+      ]
+    },
+    "highlights": {
+      "es": ["Cuatrimoto y cabalgata en una sola salida", "Ocho horarios de salida, de 9:00 a 16:00", "Clase y cata de tequila incluidas", "Van con aire acondicionado y lockers"],
+      "en": ["Quad and horseback ride in a single outing", "Eight departure times, from 9:00 to 16:00", "Tequila class and tasting included", "Air-conditioned van and lockers"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Transporte redondo desde tu hotel", "Van con aire acondicionado", "Lockers", "Clase y cata de tequila en nuestro museo"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Round-trip hotel transport", "Air-conditioned van", "Lockers", "Tequila class and tasting at our museum"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Alimentos y bebidas (disponibles desde 5 USD)", "Fotografía profesional (costo adicional)", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Food and drinks (available from 5 USD)", "Professional photos (extra cost)", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Menores de 16 años deben ir en cuatrimoto doble con un adulto", "Edad mínima: 6 años (1.20 m de estatura)", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Riders under 16 must share a double ATV with an adult", "Minimum age: 6 years (1.20 m tall)", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 3,
+    "img": "horseback-taco",
+    "gallery": 5,
+    "category": "horseback",
+    "tags": ["food"],
+    "hours": 3,
+    "price": { "adult": 78, "adultList": 88, "kid": 60, "kidList": 70 },
+    "times": ["09:00", "12:00", "15:00", "16:00"],
+    "slug": { "es": "cabalgata-en-migrino-con-taco-gigante", "en": "migrino-horseback-riding-with-giant-taco" },
+    "title": {
+      "es": "Cabalgata en Migriño con taco gigante incluido",
+      "en": "Migriño Horseback Riding with Giant Taco Included"
+    },
+    "tagline": {
+      "es": "Galope en la arena y comida incluida al regresar",
+      "en": "Gallop on the sand, food included when you get back"
+    },
+    "summary": {
+      "es": "Cabalgata por desierto y playa del Pacífico con taco gigante de tortilla suave, salsas y agua de horchata al final.",
+      "en": "A ride through the desert and Pacific beach, with a giant soft-tortilla taco, salsas and horchata at the end."
+    },
+    "description": {
+      "es": [
+        "Cabalgata por el desierto de Migriño: montaña, brisa, cardones y fauna de Baja como liebres, correcaminos y ardillas. Asignamos el caballo según tu experiencia, desde muy tranquilos hasta caballos con más brío.",
+        "El tramo bueno es la salida a la playa: galope sobre la arena con el Pacífico de frente. El guía se encarga de que te lleves la foto y el recuerdo.",
+        "Al volver te espera el taco gigante de tortilla suave. La comida está incluida en este paquete, y la salsa y el agua de horchata van por cuenta de la casa."
+      ],
+      "en": [
+        "A ride through the Migriño desert: mountains, sea breeze, cardón cactus and Baja wildlife like jackrabbits, roadrunners and ground squirrels. We assign your horse based on your experience, from very calm animals to livelier ones.",
+        "The best stretch is where the trail opens onto the beach: a gallop across the sand with the Pacific right in front of you. Your guide makes sure you leave with the photo and the memory.",
+        "Back at base, a giant soft-tortilla taco is waiting for you. Food is included in this package, and the salsa and horchata are on the house."
+      ]
+    },
+    "highlights": {
+      "es": ["Galope en la playa del Pacífico", "Taco gigante, salsas y agua de horchata incluidos", "Caballo asignado según tu experiencia", "Clase y cata de tequila incluidas"],
+      "en": ["Gallop on the Pacific beach", "Giant taco, salsas and horchata included", "Horse matched to your experience", "Tequila class and tasting included"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Transporte redondo desde tu hotel", "Van con aire acondicionado", "Lockers", "Taco gigante de tortilla suave con salsas y agua de horchata", "Clase y cata de tequila en nuestro museo"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Round-trip hotel transport", "Air-conditioned van", "Lockers", "Giant soft-tortilla taco with salsas and horchata", "Tequila class and tasting at our museum"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Fotografía profesional (costo adicional)", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Professional photos (extra cost)", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Edad mínima: 6 años (1.20 m de estatura)", "Edad máxima para montar: 70 años", "Peso máximo: 110 kg (245 lb)", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Minimum age: 6 years (1.20 m tall)", "Maximum age to ride: 70 years", "Weight limit: 110 kg (245 lb)", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 17,
+    "img": "horseback-migrino",
+    "gallery": 6,
+    "category": "horseback",
+    "tags": ["whales"],
+    "hours": 3,
+    "price": { "adult": 60, "adultList": 70, "kid": 50, "kidList": 60 },
+    "times": ["09:00", "12:00", "15:00", "16:00"],
+    "slug": { "es": "cabalgata-en-playa-migrino", "en": "horseback-riding-migrino-beach" },
+    "title": {
+      "es": "Cabalgata en playa Migriño",
+      "en": "Horseback Riding at Migriño Beach"
+    },
+    "tagline": {
+      "es": "En temporada, ballenas jorobadas frente a ti mientras cabalgas",
+      "en": "In season, humpback whales in front of you as you ride"
+    },
+    "summary": {
+      "es": "La versión esencial de nuestra cabalgata: tres horas por desierto y playa, con restaurante propio al terminar.",
+      "en": "The essential version of our ride: three hours across desert and beach, with our own restaurant at the finish."
+    },
+    "description": {
+      "es": [
+        "La cabalgata clásica de Migriño, sin extras y al mejor precio. Tres horas entre el desierto y la playa del Pacífico, con el caballo que mejor va con tu nivel.",
+        "De diciembre a abril, la temporada de ballenas jorobadas convierte este paseo en algo distinto: es común verlas soplar y saltar justo frente a la playa mientras cabalgas. No lo podemos garantizar, es naturaleza, pero cuando pasa nadie lo olvida.",
+        "Al terminar, nuestro restaurante está abierto: tacos y platillos de 5 a 20 USD, con pico de gallo y salsa picante si te sientes valiente."
+      ],
+      "en": [
+        "The classic Migriño ride, no extras, at the best price. Three hours between the desert and the Pacific beach, on the horse that best matches your level.",
+        "From December to April, humpback whale season turns this ride into something else entirely: it is common to see them blow and breach right off the beach while you ride. We cannot guarantee it, it is nature, but nobody forgets it when it happens.",
+        "At the end, our restaurant is open: tacos and dishes from 5 to 20 USD, with pico de gallo and spicy salsa if you are feeling brave."
+      ]
+    },
+    "highlights": {
+      "es": ["Avistamiento de ballenas desde la playa en temporada (dic – abr)", "Nuestra cabalgata al mejor precio", "Restaurante propio al terminar", "Clase y cata de tequila incluidas"],
+      "en": ["Whale sightings from the beach in season (Dec – Apr)", "Our best-priced horseback ride", "Our own restaurant at the finish", "Tequila class and tasting included"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Transporte redondo desde tu hotel", "Van con aire acondicionado", "Lockers", "Clase y cata de tequila en nuestro museo"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Round-trip hotel transport", "Air-conditioned van", "Lockers", "Tequila class and tasting at our museum"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Alimentos y bebidas (menú del restaurante de 5 a 20 USD)", "Fotografía profesional (costo adicional)", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Food and drinks (restaurant menu from 5 to 20 USD)", "Professional photos (extra cost)", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Edad mínima: 6 años (1.20 m de estatura)", "Edad máxima para montar: 70 años", "Peso máximo: 110 kg (245 lb)", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Minimum age: 6 years (1.20 m tall)", "Maximum age to ride: 70 years", "Weight limit: 110 kg (245 lb)", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 10,
+    "img": "camel-safari",
+    "gallery": 7,
+    "category": "camel",
+    "tags": ["family", "food"],
+    "hours": 3,
+    "price": { "adult": 70, "adultList": 84, "kid": 57, "kidList": 67 },
+    "times": ["09:00", "12:00", "15:00"],
+    "slug": { "es": "paseo-en-camello-y-safari-en-el-desierto", "en": "camel-ride-and-desert-safari" },
+    "title": {
+      "es": "Paseo en camello y safari en el desierto",
+      "en": "Camel Ride and Desert Safari"
+    },
+    "tagline": {
+      "es": "Lo más inusual que puedes hacer en Cabo",
+      "en": "The most unusual thing you can do in Cabo"
+    },
+    "summary": {
+      "es": "Camellos a orillas del Pacífico, safari por el desierto y comida mexicana de varias regiones incluida.",
+      "en": "Camels along the Pacific shore, a desert safari and Mexican food from several regions included."
+    },
+    "description": {
+      "es": [
+        "Un paseo en camello por la playa es, sin discusión, lo más inusual que puedes hacer en Cabo. Y no es una foto rápida: es un recorrido completo a orillas del Pacífico, con las olas rompiendo a un lado.",
+        "Antes y después conoces a los animales de cerca. El guía te cuenta su historia, anatomía, carácter, cuidados y entrenamiento, y hay tiempo para acariciarlos y alimentarlos. Es la parte que más recuerdan los niños.",
+        "El safari por el desierto completa el recorrido, y al final se sirve comida mexicana con platillos típicos de distintas regiones del país."
+      ],
+      "en": [
+        "A camel ride on the beach is, without question, the most unusual thing you can do in Cabo. And it is not a quick photo op: it is a full ride along the Pacific shore, with the waves breaking right beside you.",
+        "Before and after you meet the animals up close. Your guide talks you through their history, anatomy, personality, care and training, and there is time to pet and feed them. It is the part kids remember most.",
+        "The desert safari rounds out the route, and at the end we serve Mexican food with traditional dishes from different regions of the country."
+      ]
+    },
+    "highlights": {
+      "es": ["Paseo en camello frente al Pacífico", "Interacción, alimentación y plática sobre los animales", "Safari por el desierto incluido", "Comida mexicana de varias regiones"],
+      "en": ["Camel ride facing the Pacific", "Interaction, feeding and a talk about the animals", "Desert safari included", "Mexican food from several regions"]
+    },
+    "includes": {
+      "es": ["Agua", "Equipo de seguridad", "Guía bilingüe (español / inglés)", "Safari por el desierto", "Transporte redondo desde tu hotel", "Van con aire acondicionado", "Lockers", "Tacos de res, cerdo y pollo con refrescos", "Clase y cata de tequila en nuestro museo"],
+      "en": ["Water", "Safety equipment", "Bilingual guide (Spanish / English)", "Desert safari ride", "Round-trip hotel transport", "Air-conditioned van", "Lockers", "Beef, pork and chicken tacos with soft drinks", "Tequila class and tasting at our museum"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Edad mínima: 6 años (1.20 m de estatura)", "Edad máxima para montar: 85 años", "Peso máximo: 260 kg (600 lb)", "No recomendado para embarazadas ni para personas con problemas de espalda o cirugías recientes"],
+      "en": ["Minimum age: 6 years (1.20 m tall)", "Maximum age to ride: 85 years", "Weight limit: 260 kg (600 lb)", "Not recommended for pregnant women or people with back problems or recent surgery"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 7,
+    "img": "ebike-beach",
+    "gallery": 2,
+    "category": "cycling",
+    "tags": ["food"],
+    "hours": 5,
+    "price": { "adult": 97, "adultList": 107, "kid": 75, "kidList": 85 },
+    "times": ["08:30", "11:30"],
+    "slug": { "es": "bicicleta-electrica-en-la-playa", "en": "electric-bike-beach-adventure" },
+    "title": {
+      "es": "Bicicleta eléctrica en la playa y EcoFarm",
+      "en": "Electric Bike Beach Adventure and EcoFarm"
+    },
+    "tagline": {
+      "es": "Cinco horas, buffet mexicano con cerveza y vista al mar",
+      "en": "Five hours, Mexican buffet with beer and an ocean view"
+    },
+    "summary": {
+      "es": "El recorrido más largo del catálogo: bicicleta eléctrica por la playa, visita a EcoFarm y comida con vista al mar.",
+      "en": "The longest trip we run: e-bike along the beach, a visit to EcoFarm and lunch with an ocean view."
+    },
+    "description": {
+      "es": [
+        "Cabo San Lucas tiene terreno de sobra para rodar en playa, y con bicicleta eléctrica lo disfrutas sin importar tu condición física: tú decides cuánto pedaleas y el motor hace el resto. Funciona igual para principiantes que para ciclistas con experiencia.",
+        "El recorrido incluye una hora de visita a EcoFarm, para conocer el proyecto agrícola de la zona, y en el camino hay paradas para fotos con vista abierta al océano.",
+        "Cierras en un lugar exclusivo con vista al mar, con buffet mexicano, cerveza y quesadillas hechas a mano. Son cinco horas: es el plan para el día que quieras dedicarle completo a una sola actividad."
+      ],
+      "en": [
+        "Cabo San Lucas has plenty of terrain for beach riding, and on an electric bike you enjoy it regardless of your fitness: you decide how much you pedal and the motor does the rest. It works just as well for beginners as for experienced riders.",
+        "The route includes an hour-long visit to EcoFarm to see the local farming project, and there are photo stops with wide-open ocean views along the way.",
+        "You finish at an exclusive spot overlooking the sea, with a Mexican buffet, beer and handmade quesadillas. It runs five hours: this is the plan for the day you want to give over to a single activity."
+      ]
+    },
+    "highlights": {
+      "es": ["Bicicleta eléctrica: pedaleas lo que quieras", "Visita de una hora a EcoFarm", "Buffet mexicano con cerveza y vista al mar", "Quesadillas hechas a mano"],
+      "en": ["Electric bike: pedal as much or as little as you like", "One-hour visit to EcoFarm", "Mexican buffet with beer and an ocean view", "Handmade quesadillas"]
+    },
+    "includes": {
+      "es": ["Bebidas", "Equipo de seguridad (casco, rodilleras y coderas)", "Lockers", "Quesadillas hechas a mano", "Visita de una hora a EcoFarm", "Transporte redondo desde tu hotel"],
+      "en": ["Drinks", "Safety equipment (helmet, knee and elbow pads)", "Lockers", "Handmade quesadillas", "One-hour visit to EcoFarm", "Round-trip hotel transport"]
+    },
+    "excludes": {
+      "es": ["Cuota de acceso al parque: 25 USD por persona (se paga en sitio)", "Bloqueador solar", "Propinas"],
+      "en": ["Park access fee: 25 USD per person (paid on site)", "Sunscreen", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Duración total de cinco horas: considéralo al armar tu itinerario", "Solo dos salidas al día: 8:30 y 11:30", "Se requiere saber andar en bicicleta"],
+      "en": ["Five hours total: plan your itinerary accordingly", "Only two departures a day: 8:30 and 11:30", "You need to know how to ride a bike"]
+    },
+    "meeting": {
+      "es": "Te recogemos en tu hotel. La hora exacta se coordina al confirmar la reserva.",
+      "en": "We pick you up at your hotel. The exact time is arranged once your booking is confirmed."
+    }
+  },
+  {
+    "id": 19,
+    "img": "pottery-tequila",
+    "gallery": 4,
+    "category": "culture",
+    "tags": ["new", "small-group"],
+    "hours": 1,
+    "price": { "adult": 25, "adultList": 40, "kid": 25, "kidList": 30 },
+    "times": [],
+    "slug": { "es": "taller-de-ceramica-y-cata-de-tequila", "en": "pottery-class-and-tequila-tasting" },
+    "title": {
+      "es": "Taller de cerámica y cata de tequila",
+      "en": "Pottery Class and Tequila Tasting"
+    },
+    "tagline": {
+      "es": "Grupos de 8 a 10 personas, con artesanos locales",
+      "en": "Groups of 8 to 10, hosted by local artisans"
+    },
+    "summary": {
+      "es": "Modelas tu propia pieza de barro con un artesano local y cierras con una cata guiada de tequilas.",
+      "en": "Shape your own clay piece with a local artisan, then finish with a guided tequila tasting."
+    },
+    "description": {
+      "es": [
+        "Una actividad cultural, con las manos en el barro y sin necesidad de experiencia. Un artesano local te enseña las bases del modelado a mano y, en la sesión, sacas tu propia pieza de cerámica para llevártela.",
+        "Después viene la parte relajada: una cata curada de tequilas de alta gama, con un anfitrión que te explica la historia, el proceso de producción y el peso cultural que tiene el tequila en México.",
+        "El grupo es de máximo 8 a 10 personas, así que la atención es personalizada. Es el plan ideal para parejas, grupos de amigos y quienes viajan solos y quieren algo auténtico que no dependa del clima."
+      ],
+      "en": [
+        "A cultural activity, hands in the clay, no experience required. A local artisan teaches you the basics of hand-building and, within the session, you shape your own ceramic piece to take home.",
+        "Then comes the relaxed part: a curated tasting of high-end tequilas, with a host who walks you through the history, the production process and the cultural weight tequila carries in Mexico.",
+        "Groups are capped at 8 to 10 people, so the attention is personal. It is the ideal plan for couples, groups of friends and solo travellers looking for something authentic that does not depend on the weather."
+      ]
+    },
+    "highlights": {
+      "es": ["Te llevas tu propia pieza de cerámica", "Cata guiada de tequilas de alta gama", "Grupo pequeño: máximo 8 a 10 personas", "Actividad bajo techo: no depende del clima"],
+      "en": ["Take home your own ceramic piece", "Guided tasting of high-end tequilas", "Small group: 8 to 10 people maximum", "Indoor activity: weather-proof"]
+    },
+    "includes": {
+      "es": ["Agua", "Taller de cerámica con artesano local", "Materiales y tu pieza para llevar", "Clase y cata de tequila en nuestro museo", "Guía bilingüe (español / inglés)"],
+      "en": ["Water", "Pottery workshop with a local artisan", "Materials and your piece to take home", "Tequila class and tasting at our museum", "Bilingual guide (Spanish / English)"]
+    },
+    "excludes": {
+      "es": ["Alimentos y bebidas", "Transporte hotel – taller", "Fotografía profesional (costo adicional)", "Propinas"],
+      "en": ["Food and drinks", "Hotel to studio transport", "Professional photos (extra cost)", "Tips"]
+    },
+    "restrictions": {
+      "es": ["Horario bajo solicitud: escríbenos y te damos disponibilidad", "La cata de tequila es solo para mayores de 18 años", "Cupo limitado a 8 – 10 personas por sesión"],
+      "en": ["Times on request: message us and we will confirm availability", "The tequila tasting is for adults 18 and over only", "Limited to 8 – 10 people per session"]
+    },
+    "meeting": {
+      "es": "Estudio en Los Cabos. Te compartimos la ubicación exacta al confirmar tu reserva.",
+      "en": "Studio in Los Cabos. We share the exact location when your booking is confirmed."
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "best-cabo-adventures",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio estatico bilingue de Best Cabo Adventures (Los Cabos, B.C.S.)",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "python3 -m http.server 8000"
+  },
+  "license": "UNLICENSED"
+}

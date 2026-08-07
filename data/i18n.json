@@ -1,0 +1,461 @@
+{
+  "es": {
+    "locale": "es-MX",
+    "htmlLang": "es",
+    "dir": "Español",
+    "altName": "English",
+    "skip": "Saltar al contenido",
+
+    "meta": {
+      "homeTitle": "Tours en Cabo San Lucas | ATV, snorkel, camellos y cabalgatas — Best Cabo Adventures",
+      "homeDesc": "14 aventuras en Los Cabos desde 25 USD: cuatrimotos en Migriño, barco transparente al Arco, snorkel en Santa María, camellos y cabalgatas. Guías bilingües, transporte redondo y reserva por WhatsApp.",
+      "tourDescPrefix": "Desde",
+      "tourDescSuffix": "por adulto. Guía bilingüe, transporte redondo y reserva por WhatsApp con Best Cabo Adventures en Los Cabos."
+    },
+
+    "nav": {
+      "tours": "Tours",
+      "why": "Por qué nosotros",
+      "how": "Cómo reservar",
+      "faq": "Preguntas",
+      "contact": "Contacto",
+      "book": "Reservar por WhatsApp",
+      "menu": "Menú",
+      "close": "Cerrar"
+    },
+
+    "hero": {
+      "eyebrow": "Los Cabos, Baja California Sur",
+      "title": "Las aventuras que hacen que la gente vuelva a Cabo",
+      "lead": "Cuatrimotos en el desierto de Migriño, snorkel en el Arco, camellos frente al Pacífico y cabalgatas al atardecer. Operamos nuestros propios tours: sin intermediarios y con guías bilingües.",
+      "ctaPrimary": "Ver las 14 aventuras",
+      "ctaSecondary": "Preguntar por WhatsApp",
+      "stat1": "aventuras propias",
+      "stat2": "desde 25 USD por persona",
+      "stat3": "salidas todos los días",
+      "note": "Sin pagos en línea: confirmamos disponibilidad por WhatsApp antes de que pagues nada."
+    },
+
+    "trust": {
+      "title": "Lo que incluye reservar directo con nosotros",
+      "a": { "t": "Guías bilingües", "d": "Todos los recorridos van con guía en español e inglés, no con un traductor improvisado." },
+      "b": { "t": "Transporte redondo", "d": "Te recogemos y te regresamos a tu hotel en van con aire acondicionado en los tours de tierra." },
+      "c": { "t": "Precios claros en USD", "d": "Tarifa de adulto y de menor a la vista, y te decimos qué cuotas se pagan en sitio." },
+      "d": { "t": "Turismo responsable", "d": "Grupos controlados, respeto a los animales y a las áreas naturales protegidas de Baja." }
+    },
+
+    "tours": {
+      "eyebrow": "Catálogo completo",
+      "title": "Elige tu aventura",
+      "lead": "14 experiencias operadas por nosotros en Cabo San Lucas y Migriño. Filtra por tipo o por precio.",
+      "filterLabel": "Filtrar por tipo",
+      "sortLabel": "Ordenar",
+      "sort": {
+        "featured": "Destacados",
+        "priceAsc": "Precio: menor a mayor",
+        "priceDesc": "Precio: mayor a menor",
+        "durationAsc": "Duración: más corto",
+        "durationDesc": "Duración: más largo"
+      },
+      "count": "aventuras",
+      "countOne": "aventura",
+      "empty": "No hay tours con ese filtro.",
+      "from": "Desde",
+      "perAdult": "por adulto",
+      "perKid": "menores",
+      "hours": "h",
+      "view": "Ver detalles",
+      "book": "Reservar",
+      "reset": "Quitar filtros"
+    },
+
+    "cat": {
+      "all": "Todos",
+      "ocean": "Mar y snorkel",
+      "adventure": "Off road",
+      "horseback": "Cabalgatas",
+      "camel": "Camellos",
+      "cycling": "Bicicleta",
+      "culture": "Cultura"
+    },
+
+    "tag": {
+      "bestseller": "Más vendido",
+      "combo": "Combo 2 en 1",
+      "family": "Ideal para familias",
+      "premium": "Premium",
+      "food": "Comida incluida",
+      "whales": "Ballenas dic – abr",
+      "new": "Nuevo",
+      "small-group": "Grupo pequeño"
+    },
+
+    "how": {
+      "eyebrow": "Cómo reservar",
+      "title": "Tres pasos y listo",
+      "lead": "Nada de formularios eternos ni pagos por adelantado en un sitio que no conoces.",
+      "s1": { "t": "Elige tu aventura", "d": "Revisa qué incluye cada tour, los horarios de salida y las restricciones de edad y peso." },
+      "s2": { "t": "Escríbenos por WhatsApp", "d": "El botón de reservar arma el mensaje con tu tour, fecha, horario y número de personas. Te confirmamos disponibilidad." },
+      "s3": { "t": "Te recogemos", "d": "Coordinamos la hora de recolección en tu hotel. Pagas el día del tour y las cuotas de acceso en sitio." }
+    },
+
+    "why": {
+      "eyebrow": "Por qué nosotros",
+      "title": "Operamos lo que vendemos",
+      "p1": "Best Cabo Adventures nació en Los Cabos con una idea simple: que la gente conozca Baja California Sur con quienes viven aquí. No revendemos cupos de terceros, operamos nuestras propias salidas.",
+      "p2": "Eso significa que sabemos cómo está el mar hoy, qué caballo le toca a quién, y si el grupo de las 3 de la tarde va a alcanzar el atardecer en la playa. También significa que si algo cambia, te lo decimos antes y no cuando ya estás en la van.",
+      "p3": "Trabajamos con grupos controlados, respetamos las áreas naturales protegidas y cuidamos a nuestros animales. El desierto y el Pacífico son nuestra oficina, y nos interesa que sigan estando así el año que viene.",
+      "b1": "Salidas propias, sin intermediarios",
+      "b2": "Guías locales, bilingües y certificados",
+      "b3": "Grupos pequeños y equipo revisado",
+      "b4": "Respeto a la fauna y a las áreas protegidas"
+    },
+
+    "combo": {
+      "eyebrow": "Combos 2 en 1",
+      "title": "Dos aventuras, una sola salida",
+      "lead": "Si solo tienes un día libre, los combos te dan cuatrimoto más camello o cuatrimoto más cabalgata en el mismo recorrido, con transporte incluido.",
+      "cta": "Ver los combos"
+    },
+
+    "reviews": {
+      "eyebrow": "Viajeros",
+      "title": "Lo que nos dejan escrito",
+      "lead": "Reseñas compartidas por clientes de Best Cabo Adventures.",
+      "author": "Viajero de Best Cabo Adventures",
+      "cta": "Ver más en Facebook",
+      "items": [
+        "¡Increíble servicio! Desde el momento en que reservamos, todo fue perfecto. Los tours son increíbles y el personal es muy servicial. ¡Muy recomendable!",
+        "¡Una aventura emocionante! Hicimos el tour de avistamiento de ballenas y fue una experiencia impresionante. Los guías fueron muy pacientes y se aseguraron de que todos tuvieran una gran experiencia.",
+        "¡Una experiencia fantástica! Hicimos el tour en lancha y fue increíble. La tripulación fue muy profesional y amable. ¡Lo recomendaría a cualquiera!",
+        "Una experiencia increíble con mucha aventura. Lo recomiendo mucho para quienes están en busca de diversión. ¡Excelente servicio!"
+      ]
+    },
+
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que todo el mundo pregunta antes de reservar",
+      "items": [
+        { "q": "¿En qué moneda están los precios?", "a": "Todos los precios son en dólares estadounidenses (USD) y son por persona. Mostramos la tarifa de adulto y la de menor por separado, sin letras chiquitas." },
+        { "q": "¿Tengo que pagar por adelantado para apartar?", "a": "No cobramos en línea. Nos escribes por WhatsApp con el tour, la fecha y el número de personas, te confirmamos disponibilidad y acordamos el pago antes de la salida." },
+        { "q": "¿El transporte desde mi hotel está incluido?", "a": "En los tours de tierra (cuatrimotos, side by side, cabalgatas, camellos, tirolesas y bicicleta) el transporte redondo va incluido y la hora de recolección se coordina al confirmar. Los tours de mar salen directamente de la marina de Cabo San Lucas." },
+        { "q": "¿Hay cuotas que se pagan aparte?", "a": "Sí, y las decimos desde el principio. Los tours de tierra tienen una cuota de acceso al parque de 25 USD por persona que se paga en sitio. Los tours de mar tienen una cuota de acceso a la marina de 5 USD por persona, excepto el barco transparente, que ya la incluye." },
+        { "q": "¿Los guías hablan inglés?", "a": "Sí. Todas nuestras salidas van con guía bilingüe español – inglés." },
+        { "q": "¿Cuál es la edad mínima?", "a": "Depende del tour. En cabalgatas y camellos la edad mínima es 6 años y 1.20 m de estatura; en cuatrimotas los menores pueden ir como pasajeros desde los 7 años y manejar solos a partir de los 16. Cada ficha de tour tiene sus restricciones completas." },
+        { "q": "¿Cuándo es temporada de ballenas?", "a": "De diciembre a abril. En esos meses es común ver ballenas jorobadas desde la playa de Migriño durante las cabalgatas, aunque al ser fauna silvestre nunca podemos garantizarlo." },
+        { "q": "¿Qué debo llevar?", "a": "Ropa cómoda que se pueda ensuciar, calzado cerrado para las actividades de tierra, traje de baño y toalla para las de mar, bloqueador solar, lentes de sol y efectivo para las cuotas de acceso y las propinas." }
+      ]
+    },
+
+    "contact": {
+      "eyebrow": "Contacto",
+      "title": "Hablemos y armamos tu día",
+      "lead": "Dinos qué fechas tienes libres y cuántos van. Te decimos qué cabe en tu itinerario y qué conviene según la temporada.",
+      "whatsapp": "Escribir por WhatsApp",
+      "call": "Llamar",
+      "emailLabel": "Correo",
+      "phoneLabel": "Teléfono",
+      "hoursLabel": "Horario de atención",
+      "hoursValue": "Lunes a viernes de 10:00 a 17:00 · Sábado de 10:00 a 13:00",
+      "areaLabel": "Zona de operación",
+      "areaValue": "Cabo San Lucas, Migriño y San José del Cabo, Baja California Sur, México",
+      "waMessage": "Hola, me gustaría información sobre los tours de Best Cabo Adventures."
+    },
+
+    "tour": {
+      "back": "Todos los tours",
+      "home": "Inicio",
+      "duration": "Duración",
+      "departures": "Horarios de salida",
+      "departuresOnRequest": "Bajo solicitud",
+      "departuresShort": "salidas",
+      "morePhotos": "+{n} fotos",
+      "morePhoto": "+1 foto",
+      "meeting": "Punto de encuentro",
+      "language": "Idioma",
+      "languageValue": "Español e inglés",
+      "gallery": "Galería",
+      "openGallery": "Ampliar foto",
+      "prev": "Anterior",
+      "next": "Siguiente",
+      "about": "Sobre esta aventura",
+      "highlights": "Lo mejor de este tour",
+      "includes": "Incluye",
+      "excludes": "No incluye",
+      "restrictions": "Antes de reservar",
+      "book": "Reservar",
+      "bookTitle": "Reserva por WhatsApp",
+      "bookLead": "Confirmamos disponibilidad antes de cualquier pago.",
+      "date": "Fecha",
+      "time": "Horario",
+      "adults": "Adultos",
+      "kids": "Menores",
+      "total": "Total estimado",
+      "totalNote": "No incluye cuotas de acceso ni propinas.",
+      "submit": "Reservar por WhatsApp",
+      "priceAdult": "Adulto",
+      "priceKid": "Menor",
+      "save": "Ahorras",
+      "related": "También te puede gustar",
+      "waIntro": "Hola, quiero reservar este tour de Best Cabo Adventures:",
+      "waTour": "Tour",
+      "waDate": "Fecha",
+      "waTime": "Horario",
+      "waPax": "Personas",
+      "waTotal": "Total estimado",
+      "waAdults": "adultos",
+      "waAdult": "adulto",
+      "waKids": "menores",
+      "waKid": "menor",
+      "waClose": "¿Me confirman disponibilidad, por favor?",
+      "selectTime": "Elige un horario"
+    },
+
+    "footer": {
+      "tagline": "Tours y aventuras operados directamente en Los Cabos, Baja California Sur.",
+      "toursTitle": "Aventuras",
+      "companyTitle": "Empresa",
+      "contactTitle": "Contacto",
+      "allTours": "Ver todos los tours",
+      "rights": "Todos los derechos reservados.",
+      "legal": "Precios en dólares estadounidenses (USD) por persona, sujetos a disponibilidad y a cambios sin previo aviso."
+    },
+
+    "fab": "Escríbenos por WhatsApp",
+    "notFound": {
+      "title": "Página no encontrada",
+      "lead": "El enlace que seguiste ya no existe. Vuelve al inicio o mira todas nuestras aventuras.",
+      "cta": "Ir al inicio"
+    }
+  },
+
+  "en": {
+    "locale": "en-US",
+    "htmlLang": "en",
+    "dir": "English",
+    "altName": "Español",
+    "skip": "Skip to content",
+
+    "meta": {
+      "homeTitle": "Cabo San Lucas Tours | ATV, Snorkel, Camels & Horseback — Best Cabo Adventures",
+      "homeDesc": "14 Los Cabos adventures from 25 USD: ATVs in Migriño, clear boat to El Arco, snorkelling in Santa María, camel rides and horseback tours. Bilingual guides, round-trip transport, book on WhatsApp.",
+      "tourDescPrefix": "From",
+      "tourDescSuffix": "per adult. Bilingual guide, round-trip transport and WhatsApp booking with Best Cabo Adventures in Los Cabos."
+    },
+
+    "nav": {
+      "tours": "Tours",
+      "why": "Why us",
+      "how": "How to book",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "book": "Book on WhatsApp",
+      "menu": "Menu",
+      "close": "Close"
+    },
+
+    "hero": {
+      "eyebrow": "Los Cabos, Baja California Sur",
+      "title": "The adventures that bring people back to Cabo",
+      "lead": "ATVs across the Migriño desert, snorkelling at El Arco, camels on the Pacific shore and horseback rides at sunset. We run our own tours: no middlemen, bilingual guides only.",
+      "ctaPrimary": "See all 14 adventures",
+      "ctaSecondary": "Ask on WhatsApp",
+      "stat1": "adventures we operate",
+      "stat2": "from 25 USD per person",
+      "stat3": "departures every day",
+      "note": "No online payments: we confirm availability on WhatsApp before you pay anything."
+    },
+
+    "trust": {
+      "title": "What booking direct with us gets you",
+      "a": { "t": "Bilingual guides", "d": "Every departure runs with a real Spanish and English guide, not an improvised translator." },
+      "b": { "t": "Round-trip transport", "d": "We pick you up and drop you back at your hotel in an air-conditioned van on all land tours." },
+      "c": { "t": "Clear prices in USD", "d": "Adult and child rates up front, and we tell you exactly which fees are paid on site." },
+      "d": { "t": "Responsible tourism", "d": "Controlled group sizes, respect for the animals and for Baja's protected natural areas." }
+    },
+
+    "tours": {
+      "eyebrow": "Full catalogue",
+      "title": "Pick your adventure",
+      "lead": "14 experiences we operate ourselves in Cabo San Lucas and Migriño. Filter by type or by price.",
+      "filterLabel": "Filter by type",
+      "sortLabel": "Sort",
+      "sort": {
+        "featured": "Featured",
+        "priceAsc": "Price: low to high",
+        "priceDesc": "Price: high to low",
+        "durationAsc": "Duration: shortest",
+        "durationDesc": "Duration: longest"
+      },
+      "count": "adventures",
+      "countOne": "adventure",
+      "empty": "No tours match that filter.",
+      "from": "From",
+      "perAdult": "per adult",
+      "perKid": "kids",
+      "hours": "h",
+      "view": "See details",
+      "book": "Book",
+      "reset": "Clear filters"
+    },
+
+    "cat": {
+      "all": "All",
+      "ocean": "Ocean & snorkel",
+      "adventure": "Off-road",
+      "horseback": "Horseback",
+      "camel": "Camels",
+      "cycling": "Cycling",
+      "culture": "Culture"
+    },
+
+    "tag": {
+      "bestseller": "Best seller",
+      "combo": "2-in-1 combo",
+      "family": "Great for families",
+      "premium": "Premium",
+      "food": "Food included",
+      "whales": "Whales Dec – Apr",
+      "new": "New",
+      "small-group": "Small group"
+    },
+
+    "how": {
+      "eyebrow": "How to book",
+      "title": "Three steps and you're set",
+      "lead": "No endless forms and no prepaying on a site you've never heard of.",
+      "s1": { "t": "Pick your adventure", "d": "Check what each tour includes, the departure times and the age and weight limits." },
+      "s2": { "t": "Message us on WhatsApp", "d": "The booking button writes the message for you with your tour, date, time and party size. We confirm availability." },
+      "s3": { "t": "We pick you up", "d": "We arrange your hotel pickup time. You pay on the day of the tour, along with the on-site access fees." }
+    },
+
+    "why": {
+      "eyebrow": "Why us",
+      "title": "We operate what we sell",
+      "p1": "Best Cabo Adventures started in Los Cabos with a simple idea: let people see Baja California Sur with the people who actually live here. We don't resell other operators' seats, we run our own departures.",
+      "p2": "That means we know how the sea is running today, which horse goes to which rider, and whether the 3 p.m. group will catch sunset on the beach. It also means that if something changes, you hear it from us beforehand, not once you're already in the van.",
+      "p3": "We work with controlled group sizes, respect the protected natural areas and take care of our animals. The desert and the Pacific are our office, and we'd like them to still be here next year.",
+      "b1": "Our own departures, no middlemen",
+      "b2": "Local, bilingual, certified guides",
+      "b3": "Small groups and inspected equipment",
+      "b4": "Respect for wildlife and protected areas"
+    },
+
+    "combo": {
+      "eyebrow": "2-in-1 combos",
+      "title": "Two adventures, one outing",
+      "lead": "If you only have one free day, our combos give you ATV plus camel or ATV plus horseback in the same route, transport included.",
+      "cta": "See the combos"
+    },
+
+    "reviews": {
+      "eyebrow": "Travellers",
+      "title": "What guests write to us",
+      "lead": "Reviews shared by Best Cabo Adventures customers.",
+      "author": "Best Cabo Adventures traveller",
+      "cta": "See more on Facebook",
+      "items": [
+        "Incredible service! From the moment we booked, everything was perfect. The tours are amazing and the staff is really helpful. Highly recommended!",
+        "What an exciting adventure! We did the whale watching tour and it was breathtaking. The guides were so patient and made sure everyone had a great time.",
+        "A fantastic experience! We did the boat tour and it was incredible. The crew was professional and friendly. I'd recommend it to anyone!",
+        "An amazing experience, full of adventure. I really recommend it for anyone looking to have fun. Excellent service!"
+      ]
+    },
+
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "What everyone asks before booking",
+      "items": [
+        { "q": "What currency are the prices in?", "a": "All prices are in US dollars (USD) and are per person. We show the adult rate and the child rate separately, with no fine print." },
+        { "q": "Do I have to prepay to hold a spot?", "a": "We don't charge online. You message us on WhatsApp with the tour, the date and your party size, we confirm availability, and we agree on payment before departure." },
+        { "q": "Is hotel transport included?", "a": "On land tours (ATVs, side by side, horseback, camels, zip lines and bikes) round-trip transport is included and the pickup time is arranged when we confirm. Ocean tours depart directly from the Cabo San Lucas marina." },
+        { "q": "Are there fees paid separately?", "a": "Yes, and we say so up front. Land tours have a 25 USD per person park access fee paid on site. Ocean tours have a 5 USD per person marina access fee, except the clear boat tour, which already includes it." },
+        { "q": "Do the guides speak English?", "a": "Yes. Every departure runs with a bilingual Spanish – English guide." },
+        { "q": "What is the minimum age?", "a": "It depends on the tour. Horseback and camel rides require riders to be at least 6 years old and 1.20 m tall; on ATVs, children can ride as passengers from age 7 and drive alone from age 16. Every tour page lists its full restrictions." },
+        { "q": "When is whale season?", "a": "December through April. In those months it's common to see humpback whales from Migriño beach during the horseback rides, though as wildlife it's never something we can guarantee." },
+        { "q": "What should I bring?", "a": "Comfortable clothes you don't mind getting dirty, closed-toe shoes for land activities, swimwear and a towel for ocean tours, sunscreen, sunglasses and cash for access fees and tips." }
+      ]
+    },
+
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Let's put your day together",
+      "lead": "Tell us which dates you have free and how many of you there are. We'll tell you what fits your itinerary and what works best for the season.",
+      "whatsapp": "Message on WhatsApp",
+      "call": "Call us",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "hoursLabel": "Office hours",
+      "hoursValue": "Monday to Friday 10:00 – 17:00 · Saturday 10:00 – 13:00",
+      "areaLabel": "Where we operate",
+      "areaValue": "Cabo San Lucas, Migriño and San José del Cabo, Baja California Sur, Mexico",
+      "waMessage": "Hi! I'd like information about Best Cabo Adventures tours."
+    },
+
+    "tour": {
+      "back": "All tours",
+      "home": "Home",
+      "duration": "Duration",
+      "departures": "Departure times",
+      "departuresOnRequest": "On request",
+      "departuresShort": "departures",
+      "morePhotos": "+{n} photos",
+      "morePhoto": "+1 photo",
+      "meeting": "Meeting point",
+      "language": "Language",
+      "languageValue": "Spanish and English",
+      "gallery": "Gallery",
+      "openGallery": "Open photo",
+      "prev": "Previous",
+      "next": "Next",
+      "about": "About this adventure",
+      "highlights": "Tour highlights",
+      "includes": "What's included",
+      "excludes": "Not included",
+      "restrictions": "Before you book",
+      "book": "Book",
+      "bookTitle": "Book on WhatsApp",
+      "bookLead": "We confirm availability before any payment.",
+      "date": "Date",
+      "time": "Time",
+      "adults": "Adults",
+      "kids": "Kids",
+      "total": "Estimated total",
+      "totalNote": "Access fees and tips not included.",
+      "submit": "Book on WhatsApp",
+      "priceAdult": "Adult",
+      "priceKid": "Child",
+      "save": "You save",
+      "related": "You might also like",
+      "waIntro": "Hi! I'd like to book this Best Cabo Adventures tour:",
+      "waTour": "Tour",
+      "waDate": "Date",
+      "waTime": "Time",
+      "waPax": "Guests",
+      "waTotal": "Estimated total",
+      "waAdults": "adults",
+      "waAdult": "adult",
+      "waKids": "kids",
+      "waKid": "kid",
+      "waClose": "Could you confirm availability, please?",
+      "selectTime": "Choose a time"
+    },
+
+    "footer": {
+      "tagline": "Tours and adventures operated directly in Los Cabos, Baja California Sur.",
+      "toursTitle": "Adventures",
+      "companyTitle": "Company",
+      "contactTitle": "Contact",
+      "allTours": "See all tours",
+      "rights": "All rights reserved.",
+      "legal": "Prices in US dollars (USD) per person, subject to availability and to change without notice."
+    },
+
+    "fab": "Message us on WhatsApp",
+    "notFound": {
+      "title": "Page not found",
+      "lead": "The link you followed no longer exists. Head back home or browse all our adventures.",
+      "cta": "Go to homepage"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Best Cabo Adventures",
+  "url": "https://www.bestcaboadventures.com",
+  "email": "info@bestcaboadventures.com",
+  "phoneDisplay": "+52 614 302 0978",
+  "phoneHref": "+526143020978",
+  "whatsapp": "526143020978",
+  "city": "Cabo San Lucas",
+  "region": "Baja California Sur",
+  "country": "MX",
+  "founded": "2022",
+  "social": {
+    "facebook": "https://www.facebook.com/bestcaboadventures/",
+    "instagram": "https://www.instagram.com/bestcaboadventures/"
+  },
+  "openingHours": [
+    { "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "10:00", "closes": "17:00" },
+    { "days": ["Saturday"], "opens": "10:00", "closes": "13:00" }
+  ],
+  "geo": { "lat": 22.8905, "lng": -109.9167 }
+}
