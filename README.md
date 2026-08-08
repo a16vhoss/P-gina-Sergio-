@@ -123,6 +123,12 @@ que construir a mano ni subir archivos.
 > tiene. Empujar a una rama solo necesita `contents: write`, así que el workflow es
 > autosuficiente y no depende de ningún ajuste manual.
 
+### Vercel / Netlify
+
+El repo trae `vercel.json` listo: framework `Other`, build `node build.mjs`, output en la
+raíz, URLs limpias con barra final y cache larga para `assets/`. Importar el repo y
+desplegar es suficiente, no hay configuración manual que hacer.
+
 ### Para ponerlo en bestcaboadventures.com
 
 Es HTML estático, así que sirve en cualquier hosting (el Apache actual, Netlify, Vercel,
