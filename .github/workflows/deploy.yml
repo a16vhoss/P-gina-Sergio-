@@ -5,28 +5,28 @@ on:
     branches: [claude/webpage-analysis-improvement-cxo5bo]
   workflow_dispatch:
 
+# Only contents:write is needed — we publish by pushing the built site to the
+# gh-pages branch. The Pages REST API (used by actions/configure-pages) needs
+# repo-administration rights that GITHUB_TOKEN does not have.
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
-# Let a running deploy finish; queue at most one more.
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
-      # Regenerate every page from data/*.json so the deployed HTML always
-      # matches the source of truth, never a stale commit.
+      # Regenerate every page from data/*.json so what ships always matches
+      # the source of truth, never a stale commit.
       - name: Build
         run: node build.mjs
 
@@ -35,25 +35,24 @@ jobs:
           test -f index.html
           test -f en/index.html
           test -f sitemap.xml
+          test -f .nojekyll
           count=$(find . -name index.html -not -path './.git/*' | wc -l)
           echo "generated $count pages"
           test "$count" -eq 30
 
-      # enablement: true turns on GitHub Pages for the repo on the first run.
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish to gh-pages
+        run: |
+          set -euo pipefail
+          rm -rf .deploy && mkdir .deploy
+          cp -r index.html 404.html robots.txt sitemap.xml site.webmanifest \
+                .nojekyll assets en tours .deploy/
+          cd .deploy
+          git init -q
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Deploy ${GITHUB_SHA::7}"
+          git push -q --force \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" \
+            HEAD:gh-pages
+          echo "published $(find . -name index.html | wc -l) pages to gh-pages"
