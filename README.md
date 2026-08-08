@@ -108,12 +108,38 @@ número de fotos.
 
 ## Despliegue
 
-Es HTML estático: sirve la raíz del repositorio en cualquier hosting (GitHub Pages, Netlify,
-Vercel, Apache, nginx). Los enlaces internos son relativos, así que funciona igual en un
-subdirectorio que en la raíz del dominio.
+**En línea ahora:** https://a16vhoss.github.io/P-gina-Sergio-/
 
-Si se despliega en un dominio distinto a `bestcaboadventures.com`, actualiza `url` en
-`data/site.json` y reconstruye: ese valor alimenta canonicals, hreflang, sitemap y JSON-LD.
+El deploy es automático. `.github/workflows/deploy.yml` se dispara en cada push a
+`claude/webpage-analysis-improvement-cxo5bo`: instala Node, corre `node build.mjs`,
+verifica que se hayan generado las 30 páginas y publica el resultado en la rama
+`gh-pages`, que es la que sirve GitHub Pages.
+
+Es decir: **para actualizar el sitio basta con editar `data/*.json` y hacer push.** No hay
+que construir a mano ni subir archivos.
+
+> El workflow publica empujando a `gh-pages` en vez de usar `actions/deploy-pages` porque
+> la API de Pages exige permisos de administración del repositorio que `GITHUB_TOKEN` no
+> tiene. Empujar a una rama solo necesita `contents: write`, así que el workflow es
+> autosuficiente y no depende de ningún ajuste manual.
+
+### Para ponerlo en bestcaboadventures.com
+
+Es HTML estático, así que sirve en cualquier hosting (el Apache actual, Netlify, Vercel,
+nginx). Los enlaces internos son relativos, así que funciona igual en la raíz del dominio
+que en un subdirectorio.
+
+1. En `data/site.json` deja `url` apuntando al dominio final (ya está en
+   `https://www.bestcaboadventures.com`). Ese valor alimenta canonicals, hreflang, sitemap
+   y JSON-LD.
+2. Corre `node build.mjs`.
+3. Sube al `DocumentRoot` del servidor: `index.html`, `404.html`, `robots.txt`,
+   `sitemap.xml`, `site.webmanifest`, y las carpetas `assets/`, `en/` y `tours/`.
+4. Retira la redirección con cookie que hoy tiene la raíz del sitio: es lo que provoca el
+   bucle infinito para clientes sin cookies.
+
+Mientras el sitio viva en `github.io`, los `canonical` de cada página siguen apuntando al
+dominio de producción, así que Google no indexa la copia como contenido duplicado.
 
 ---
 
