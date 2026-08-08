@@ -2,13 +2,14 @@
   "name": "Best Cabo Adventures",
   "short_name": "Best Cabo",
   "description": "14 aventuras en Los Cabos desde 25 USD: cuatrimotos en Migriño, barco transparente al Arco, snorkel en Santa María, camellos y cabalgatas. Guías bilingües, transporte redondo y reserva por WhatsApp.",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#071a24",
   "icons": [
     {
-      "src": "/assets/img/logo.webp",
+      "src": "assets/img/logo.webp",
       "sizes": "360x321",
       "type": "image/webp"
     }

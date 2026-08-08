@@ -1,0 +1,59 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [claude/webpage-analysis-improvement-cxo5bo]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish; queue at most one more.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Regenerate every page from data/*.json so the deployed HTML always
+      # matches the source of truth, never a stale commit.
+      - name: Build
+        run: node build.mjs
+
+      - name: Verify build output
+        run: |
+          test -f index.html
+          test -f en/index.html
+          test -f sitemap.xml
+          count=$(find . -name index.html -not -path './.git/*' | wc -l)
+          echo "generated $count pages"
+          test "$count" -eq 30
+
+      # enablement: true turns on GitHub Pages for the repo on the first run.
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -798,16 +798,22 @@ Allow: /
 Sitemap: ${SITE.url}/sitemap.xml
 `));
 
+/* Relative paths so the site also works when served from a subdirectory
+   (GitHub Pages project site, staging folder, …). */
 written.push(write('site.webmanifest', JSON.stringify({
   name: SITE.name,
   short_name: 'Best Cabo',
   description: I18N.es.meta.homeDesc,
-  start_url: '/',
+  start_url: './',
+  scope: './',
   display: 'standalone',
   background_color: '#ffffff',
   theme_color: '#071a24',
-  icons: [{ src: '/assets/img/logo.webp', sizes: '360x321', type: 'image/webp' }]
+  icons: [{ src: 'assets/img/logo.webp', sizes: '360x321', type: 'image/webp' }]
 }, null, 2)));
+
+/* Tell GitHub Pages to serve the files as-is instead of running Jekyll. */
+written.push(write('.nojekyll', ''));
 
 console.log(`Built ${written.length} files:`);
 console.log('  ' + written.slice(0, 4).join('\n  ') + `\n  … +${written.length - 4} more`);
